@@ -1,8 +1,30 @@
+Day
+- show 360 days of the year
+- highlight dates
 (`
-    link = https://www.google.com
+    demo = https://codefr33k.github.io/day/?manifest=https://codefr33k.github.io/codefr33k.txt
+    content and data = https://codefr33k.github.io/codefr33k.caml
+    @app
+    date = 2020-224
 )
 
+Search
+- show list of search engines
+- choose search engine using Up-Down key
+- enter search words and press Enter key
 (`
-    link = https://www.google.com
+    demo = https://codefr33k.github.io/search/?manifest=https://codefr33k.github.io/search/example.txt
+    content and data = https://codefr33k.github.io/search/example.caml
+    @app
+    date = 2020-224
+)
+
+Time
+- show 12 hour local time
+- show 24 hour UTC time
+(`
+    demo = https://codefr33k.github.io/time/ 
+    @app
+    date = 2020-224
 )
 
