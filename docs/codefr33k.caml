@@ -2,8 +2,9 @@ Day
 - show 360 days of the year
 - highlight dates
 (`
-    demo = https://codefr33k.github.io/day/?manifest=https://codefr33k.github.io/codefr33k.txt
-    content and data = https://codefr33k.github.io/codefr33k.caml
+    demo = https://codefr33k.github.io/day/?manifest=https://codefr33k.github.io/docs/codefr33k.txt
+    code = https://github.com/CodeFr33k/day
+    data = https://codefr33k.github.io/codefr33k.caml
     @app
     date = 2020-224
 )
@@ -13,8 +14,9 @@ Search
 - choose search engine using Up-Down key
 - enter search words and press Enter key
 (`
-    demo = https://codefr33k.github.io/search/?manifest=https://codefr33k.github.io/search/example.txt
-    content and data = https://codefr33k.github.io/search/example.caml
+    demo = https://codefr33k.github.io/search/?manifest=https://codefr33k.github.io/docs/search.txt
+    code = https://github.com/CodeFr33k/search
+    data = https://codefr33k.github.io/docs/search.caml
     @app
     date = 2020-224
 )
@@ -24,6 +26,7 @@ Time
 - show 24 hour UTC time
 (`
     demo = https://codefr33k.github.io/time/ 
+    code = https://github.com/CodeFr33k/time
     @app
     date = 2020-224
 )

@@ -1,1 +1,1 @@
-example.caml
+search.caml
