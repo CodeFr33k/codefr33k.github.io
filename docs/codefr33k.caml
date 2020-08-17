@@ -20,8 +20,7 @@ Search
     date = 2020-224
 )
 
-Hypertext2
-- demo showcases a randomizer
+Randomizer Demo
 (`
     demo = https://codefr33k.github.io/hypertext2/?manifest=https://codefr33k.github.io/docs/hypertext2.txt&interval=5
     code = https://github.com/CodeFr33k/hypertext2
