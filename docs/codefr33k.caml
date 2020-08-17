@@ -4,7 +4,6 @@ Day
 (`
     demo = https://codefr33k.github.io/day/?manifest=https://codefr33k.github.io/docs/codefr33k.txt
     code = https://github.com/CodeFr33k/day
-    data = https://codefr33k.github.io/docs/codefr33k.caml
     @app
     date = 2020-224
 )
@@ -19,6 +18,15 @@ Search
     data = https://codefr33k.github.io/docs/search.caml
     @app
     date = 2020-224
+)
+
+Hypertext2
+- demo showcases a randomizer
+(`
+    demo = https://codefr33k.github.io/hypertext2/?manifest=https://codefr33k.github.io/docs/hypertext2.txt&interval=5
+    code = https://github.com/CodeFr33k/hypertext2
+    @app
+    date = 2020-230
 )
 
 Time
