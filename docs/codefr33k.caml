@@ -4,7 +4,7 @@ Day
 (`
     demo = https://codefr33k.github.io/day/?manifest=https://codefr33k.github.io/docs/codefr33k.txt
     code = https://github.com/CodeFr33k/day
-    data = https://codefr33k.github.io/codefr33k.caml
+    data = https://codefr33k.github.io/docs/codefr33k.caml
     @app
     date = 2020-224
 )
