@@ -8,3 +8,8 @@
     name = Youtube
 )
 
+(`
+    query = https://www.imdb.com/find?q=%s 
+    name = IMDB 
+)
+
