@@ -2,7 +2,7 @@ Day
 - show 360 days of the year
 - highlight dates
 (`
-    demo = https://codefr33k.github.io/day/?manifest=https://codefr33k.github.io/docs/codefr33k.txt
+    demo = https://codefr33k.github.io/day/?manifest=https://codefr33k.github.io/docs/day.txt
     code = https://github.com/CodeFr33k/day
     @app
     date = 2020-224
@@ -18,6 +18,7 @@ Search
     data = https://codefr33k.github.io/docs/search.caml
     @app
     date = 2020-224
+    day label = search 
 )
 
 Randomizer Demo
@@ -36,5 +37,6 @@ Time
     code = https://github.com/CodeFr33k/time
     @app
     date = 2020-224
+    day label = time 
 )
 
