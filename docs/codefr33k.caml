@@ -1,11 +1,19 @@
-Day
-- show 360 days of the year
-- highlight dates
+Time
+- show 12 hour local time
+- show 24 hour UTC time
 (`
-    demo = https://codefr33k.github.io/day/?manifest=https://codefr33k.github.io/docs/day.txt
-    code = https://github.com/CodeFr33k/day
+    demo = https://codefr33k.github.io/time/ 
+    code = https://github.com/CodeFr33k/time
     @app
-    date = 2020-224
+    date = 2020-221
+)
+
+Randomizer Demo
+(`
+    demo = https://codefr33k.github.io/hypertext2/?manifest=https://codefr33k.github.io/docs/hypertext2.txt&interval=5
+    code = https://github.com/CodeFr33k/hypertext2
+    @app
+    date = 2020-222
 )
 
 Search
@@ -17,26 +25,16 @@ Search
     code = https://github.com/CodeFr33k/search
     data = https://codefr33k.github.io/docs/search.caml
     @app
-    date = 2020-224
-    day label = search 
+    date = 2020-223
 )
 
-Randomizer Demo
+Day
+- show 360 days of the year
+- highlight dates
 (`
-    demo = https://codefr33k.github.io/hypertext2/?manifest=https://codefr33k.github.io/docs/hypertext2.txt&interval=5
-    code = https://github.com/CodeFr33k/hypertext2
-    @app
-    date = 2020-230
-)
-
-Time
-- show 12 hour local time
-- show 24 hour UTC time
-(`
-    demo = https://codefr33k.github.io/time/ 
-    code = https://github.com/CodeFr33k/time
+    demo = https://codefr33k.github.io/day/?manifest=https://codefr33k.github.io/docs/day.txt
+    code = https://github.com/CodeFr33k/day
     @app
     date = 2020-224
-    day label = time 
 )
 
